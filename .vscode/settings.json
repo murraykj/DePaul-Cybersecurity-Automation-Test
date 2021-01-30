@@ -1,0 +1,4 @@
+{
+//    "python.pythonPath": "/usr/local/bin/python3"                                                       // Windows PC
+    "python.pythonPath": "D:\\Users\\murra\\AppData\\Local\\Programs\\Python\\Python39\\python.exe"   // macbook
+}
